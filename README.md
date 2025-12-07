@@ -1,5 +1,12 @@
 # HR Management System
 
+![Java](https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=openjdk)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.0-green?style=flat-square&logo=springboot)
+![React](https://img.shields.io/badge/React-18-blue?style=flat-square&logo=react)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-336791?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED?style=flat-square&logo=docker)
+![License](https://img.shields.io/badge/License-Apache_2.0-lightgrey?style=flat-square)
+
 HR Management System, insan kaynakları süreçlerini yönetmek için hazırlanmış full-stack bir projedir. Proje; **backend** (API & iş mantığı) ve **frontend** (React tabanlı kullanıcı arayüzü) olmak üzere iki ana bölümden oluşur. Amaç; çalışan yönetimi, bilgi görüntüleme, CRUD işlemleri ve modern bir arayüz üzerinden erişilebilir bir HR sistemi sunmaktır.
 
 ---
